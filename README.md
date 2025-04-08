@@ -1,1 +1,1 @@
-This a python project that you can save edit remove and see all the tickets that you or anyone else has made. It is usefull for almost every one to create and check tickets with different titles like "the lamp in my office is broken" or "i fixed the lamp".
+This a python project that you can save,edit,remove and see all the tickets that you or anyone else has made. It is usefull for almost every one because it can create tickets with different titles like "the lamp in my office is broken" or "i fixed the lamp".
